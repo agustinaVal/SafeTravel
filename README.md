@@ -140,6 +140,9 @@ https://invis.io/Q5FJSUF2YNC#/275899506_Boleta (link)
 
 Y el MPV final:
 
-
 https://marvelapp.com/136jga16/screen/38086057
 
+<img src="img/perfil.png">
+<img src="img/notificaciones.png">
+<img src="img/asientos.png">
+<img src="img/contacto.png">
