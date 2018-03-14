@@ -83,7 +83,7 @@ User persona
 
 Con la información recaudada de las entrevistas, se define nuestro User Persona.
 
-<img src="img/userPersona.png">
+<img src="img/alejandra.png">
 
 
 Problem Statement
