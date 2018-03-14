@@ -116,13 +116,13 @@ Con la aplicación que están proponiendo, me daría seguridad y confianza en qu
 Mapa de empatia 
 ----------------------------------------------------------------------------------------------------------------------------
 
-<img src="img/mapaemtatia.png">
+<img src="img/mapaempatia.png">
 
 
 Custumer Journey Map
 ----------------------------------------------------------------------------------------------------------------------------
 
-<img src="img/Custumer.png">
+<img src="img/custumer.png">
 
 
 IDEACIÓN
