@@ -25,14 +25,29 @@ Division de tareas en el equipo de "los primeros pasos"
 
 User Research
 
-a- Benchmark ( investigacion de paginas de buses para compararlas )
-b-Preparacion de una Guia de entrevistas
-c-Encuestas Online
-d-Salidas a terminales de buses para entrevistar usuarios, observar su comportamiento y obtener documentacion importante en cada una de las Terminales.
+a- Benchmark ( investigacion de paginas de buses para compararlas ) <br>
+b-Preparacion de una Guia de entrevistas <br>
+c-Encuestas Online <br>
+d-Salidas a terminales de buses para entrevistar usuarios, observar su comportamiento y obtener documentacion importante en cada una de las Terminales <br>
 
-a- Demostracion de benchmark
+a- Demostracion de benchmark :
+-----------------------------------
 
 <img src="img/berch.png"> <img src="img/berch2.png">
+
+b- Paralelamente , empezamos a crear las preguntas para las entrevistas a usuarios en los terminales de buses:
+--------------------------------------------------------------------------------------------------------------------
+
+<img src="img/entrevistas1.png"> <img src="img/entrevista2.png">
+
+c- Encuestas Online, nos daria datos cuantitativos:
+---------------------------------------------------------------------------------------------------------------------
+<img src="img/cuantitativos.png">
+
+d- Salida a las diferentes Terminales de buses en Santiago:
+-----------------------------------------------------------------------------------------------------------------------
+
+<img src="img/terminal.jpg"> <img src="img/terminal2.jpg">
 
 
 
