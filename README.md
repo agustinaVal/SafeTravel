@@ -1,5 +1,6 @@
-# SafeTravel
 
+
+# SafeTravel
 Safetravel es una plataforma de venta y reserva de pasajes de autobús de diferentes líneas comerciales ofreciendo, como valor agregado, recomendaciones personalizadas según los intereses del usuario.
 
 ![st](https://user-images.githubusercontent.com/32283291/37967468-d50b2290-31a1-11e8-99a6-26be99771a98.png)
